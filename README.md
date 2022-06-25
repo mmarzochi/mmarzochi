@@ -1,6 +1,7 @@
 ### Hi there, my name is Matheus Marzochi 👋
-I'm Full Stack Developer.
-Wellcome to my profile!
+I'm Full Stack Developer.<br>
+Welcome to my profile!
+<br><br>
 Check my social media:
 
 <a href="https://www.instagram.com/matheusmarzochi/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
